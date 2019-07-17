@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DUDE</string>
+    <string name="welcome_to_alc_4_0">WELCOME TO ALC 4.0</string>
+    <string name="about_a_l_c">About</string>
+    <string name="profile">Profile</string>
+    <string name="about_us">ABOUT US</string>
+    <string name="about_us2">About_US</string>
+    <string name="uwakwe_raymond">UWAKWE RAYMOND</string>
+    <string name="slack_username_uwakwe_chima">Slack Username: Uwakwe-chima</string>
+    <string name="phone_no_2349038810417">Phone No: 2349038810417</string>
+    <string name="track_andriod">Track: Andriod</string>
+    <string name="country_nigeria">Country: Nigeria</string>
+    <string name="email">Email: Raymonduwakwe@gmail.com</string>
+    <string name="todo">TODO</string>
+    <string name="dude">TODO</string>
+    <string name="Enter_Number_1">Enter Number 1</string>
+    <string name="the_andela_learning_community_a_community_empowering_the_next_generation_of_african_technology_leaders_join_us">The Andela Learning Community A community empowering the next generation of African technology leaders. Join us!</string>
+    <string name="the_andela_learning_community_is_a_network_of_people_technologists_and_tech_enthusiasts_across_africa_dedicated_to_learning_how_to_use_technology_to_solve_humanity_s_problems">The Andela Learning Community is a network of people technologists and tech enthusiasts across Africa dedicated to learning how to use technology to solve humanity’s problems.</string>
+</resources>
